@@ -12,6 +12,7 @@ This project is suitable for **Data Analyst / SQL Developer / Business Analyst**
 ---
 
 ## 📂 Project Structure
+```
 netflix-data-analysis-sql/
 │
 ├── dataset/
@@ -28,7 +29,7 @@ netflix-data-analysis-sql/
 │
 ├── README.md
 └── LICENSE
-
+```
 ---
 
 ---
