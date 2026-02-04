@@ -1,1 +1,62 @@
 
+## 📁 Dataset Notes – Netflix Titles
+
+### 📌 Dataset Name
+Netflix Titles Dataset
+
+### 🌐 Dataset Source
+The dataset is sourced from **Kaggle**, a popular platform for open datasets and data science projects.
+
+🔗 **Kaggle Dataset Link:**  
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+---
+
+### 📄 Description
+This dataset contains information about movies and TV shows available on Netflix.
+It is widely used for SQL practice, data analytics projects, and exploratory data analysis (EDA).
+
+The dataset enables analysis of Netflix content based on type, release year, rating,
+country, genre, and duration.
+
+---
+
+### 📊 Dataset Features (Columns)
+- **show_id** – Unique identifier for each title  
+- **type** – Movie or TV Show  
+- **title** – Name of the movie or TV show  
+- **director** – Director of the content  
+- **cast** – Main actors involved  
+- **country** – Country where the content was produced  
+- **date_added** – Date when content was added to Netflix  
+- **release_year** – Year the content was released  
+- **rating** – Content rating (TV-MA, PG, R, etc.)  
+- **duration** – Length (minutes for movies, seasons for TV shows)  
+- **listed_in** – Genre/category of the content  
+- **description** – Brief summary of the content  
+
+---
+
+### 🎯 Purpose of Dataset
+- Analyze Movies vs TV Shows distribution  
+- Identify popular genres and ratings  
+- Study year-wise content growth  
+- Perform country-wise content analysis  
+- Practice SQL queries for data analytics  
+
+---
+
+### 🧠 Use Cases
+- SQL Portfolio Project  
+- Data Analyst Interview Preparation  
+- Business Insights Generation  
+- Academic & Practice Projects  
+
+---
+
+### ⚠️ Notes
+- Some columns may contain missing (NULL) values  
+- A single title can belong to multiple genres or countries  
+- Data cleaning may be required before advanced analysis  
+
+---
