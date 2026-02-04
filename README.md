@@ -10,7 +10,8 @@ genres, release trends, and country-wise analysis.
 This project is suitable for **Data Analyst / SQL Developer / Business Analyst** roles.
 
 ---
-## Project structure 
+
+## 📂 Project Structure
 netflix-data-analysis-sql/
 │
 ├── dataset/
