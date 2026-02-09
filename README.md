@@ -72,5 +72,5 @@ netflix-data-analysis-sql/
 ```sql
 -- Count Movies vs TV Shows
 SELECT type, COUNT(*) AS total
-FROM netflix_titles
+FROM netflix
 GROUP BY type;
